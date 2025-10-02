@@ -16,3 +16,7 @@ Por meio de aulas passo a passo, dicas úteis e projetos em comunidade, a KatSim
 Seja escrevendo suas primeiras linhas de código, desenhando seu primeiro personagem ou experimentando com animações simples, este projeto foi criado para apoiar você em cada etapa da sua jornada.
 
 A KatSim não é apenas sobre aprender — é sobre **colaboração**, **criatividade** e **construir confiança**. 🚀✨
+---------------------
+# Alerta
+---------------------
+Este Projeto é apenas para aprendizado, não é permitido qualquer alteração no código, Saiba mais no Arquivo [License](LICENSE)!
