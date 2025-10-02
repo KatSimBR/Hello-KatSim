@@ -1,0 +1,3 @@
+# Terminal Linuz
+
+echo "Hello KatSim!"
